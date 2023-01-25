@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aijac0
-- 👀 I’m interested in: software engineering, stock market modeling, and data science
-- 🌱 I’m currently learning: c programming, cs theory, probability and statistics, physics
+- 👀 I’m interested in: software engineering and high performance computing
+- 🌱 I’m currently learning: unit-testing in fortran using pFunit
 - 📫 How to reach me: aidancollinscs@gmail.com
