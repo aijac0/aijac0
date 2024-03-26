@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @aijac0
-- 👀 I'm currently working on: An automated method of regression testing
 - 📫 How to reach me: aidancollinscs@gmail.com
